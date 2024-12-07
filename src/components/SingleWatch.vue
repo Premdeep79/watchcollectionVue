@@ -39,9 +39,11 @@
    }
    .img-container{
     width: 100%;
+    height: 300px;
    }
    .img-container img{
     width: 100%;
+    height: 300px;
    }
    .details{
     padding: 1rem;
